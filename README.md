@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am passionate about technology, programming, and
 * **Tools & Version Control:** Git, GitHub, 
 
 ---
-
+Experienced Executive Assistant with over 7 years of expertise in streamlining operations, calendar and project management, and high-level administrative support. Blending organizational excellence with technical problem-solving skills
 ### 🚀 Featured Projects
 
 * **[Project Name 1](https://github.com/your-username/project-one)**
