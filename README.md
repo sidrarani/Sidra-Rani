@@ -31,7 +31,5 @@ Welcome to my GitHub profile! I am passionate about technology, programming, and
 ---
 
 ### 📫 How to reach me
-* **LinkedIn:**www.linkedin.com/in/
-sidra-rani-ba26a76a
-Vanity URL name
+* **LinkedIn:**www.linkedin.com/in/sidra-rani-ba26a76a
 * **Email:** sidrarani1@gmail.com 
