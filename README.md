@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I am passionate about technology, programming, and
 ---
 
 ### 🛠️ Tech Stack & Skills
-* **Programming Languages:** Python
+* **Programming Languages:** 
 * **Core Interests:** Software Development, Cybersecurity, Problem Solving
-* **Tools & Version Control:** Git, GitHub, VS Code
+* **Tools & Version Control:** Git, GitHub, 
 
 ---
 
@@ -34,5 +34,4 @@ Welcome to my GitHub profile! I am passionate about technology, programming, and
 * **LinkedIn:**www.linkedin.com/in/
 sidra-rani-ba26a76a
 Vanity URL name
-Note: Your custom URL must contain 3-100
 * **Email:** sidrarani1@gmail.com 
