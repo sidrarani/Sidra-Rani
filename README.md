@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sidra Rani Riaz
+# 👋 Hello, I'm Sidra Rani 
 
 Welcome to my GitHub profile! I am passionate about technology, programming, and continuous learning. Here, you'll find my projects, code explorations, and technical growth.
 
